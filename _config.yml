@@ -13,3 +13,25 @@ theme: minima
 
 # 其他设置
 timezone: Asia/Shanghai
+
+# 集合配置
+collections:
+  tech:
+    output: true
+    permalink: /tech/:title/
+  life:
+    output: true
+    permalink: /life/:title/
+
+# 默认设置
+defaults:
+  - scope:
+      path: ""
+      type: "tech"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "life"
+    values:
+      layout: "post"
