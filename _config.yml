@@ -1,0 +1,15 @@
+# 网站基本信息
+title: Code & Life
+description: 这是我的个人博客，分享技术和生活
+author: LAD
+
+# 网站URL配置
+url: "https://world2c.github.io"
+baseurl: "self_learning"
+
+# 构建设置
+markdown: kramdown
+theme: minima
+
+# 其他设置
+timezone: Asia/Shanghai
