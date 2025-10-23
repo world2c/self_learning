@@ -5,7 +5,7 @@ author: LAD
 
 # 网站URL配置
 url: "https://world2c.github.io"
-baseurl: "self_learning"
+baseurl: "/self_learning"
 
 # 构建设置
 markdown: kramdown
